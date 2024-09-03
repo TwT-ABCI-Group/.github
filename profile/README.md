@@ -12,7 +12,7 @@ TwT-A&BCI-Group 是由一群热爱前沿科技并相信技术向善（Tech for G
 
 这里是你需要掌握的基本知识，包括编程技能与数学基本知识。无论你对什么方向感兴趣，AI抑或是BCI它们都是你应该掌握的必不可少的知识与技能。
 
-#### 编程基础
+##### 编程基础
 
 在这里我们推荐学习的编程语言是Python。在进入正式的学习路线之前，我们希望你可以掌握以下有关Python的基础知识：
 - 基本语言知识：
@@ -34,7 +34,48 @@ TwT-A&BCI-Group 是由一群热爱前沿科技并相信技术向善（Tech for G
   - matplotlib
   - sklearn
   - seaborn
+- 一些你可以查阅的在线学习资源：
+  - python教程：[简介 - Python教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://liaoxuefeng.com/books/python/introduction/index.html)
+  - pandas文档：[pandas - Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/getting_started.html)
+  - numpy文档： [NumPy documentation — NumPy v2.1 Manual](https://numpy.org/doc/stable/)
+  - matplotlib文档： [Getting started — Matplotlib 3.9.2 documentation](https://matplotlib.org/stable/users/getting_started/)
+  - sklearn文档： [User Guide — scikit-learn 1.5.1 documentation](https://scikit-learn.org/stable/user_guide.html)
+  - seaborn文档： [User guide and tutorial — seaborn 0.13.2 documentation (pydata.org)](https://seaborn.pydata.org/tutorial.html)
+  - 一些有关算法的阅读： [Hello 算法 (hello-algo.com)](https://www.hello-algo.com/chapter_hello_algo/)
+- 一些可用的在线练习网页：
+  - Python练习实例： https://www.runoob.com/python/python-exercise-example100.html /Leetcode前30道： https://leetcode.com/ 
+  - Numpy练习实例： https://www.heywhale.com/mw/project/59f29f67c5f3f5119527a2cc 
+  - Pandas练习实例： https://www.heywhale.com/mw/project/59e77a636d213335f38daec2 
+  - sklearn练习实例： https://zhuanlan.zhihu.com/p/97977032
 
+##### 数学基础
+- 线性代数
+  - 矩阵及其基本运算
+  - 矩阵的行列式
+  - 矩阵的初等变换
+  - 矩阵的特征值与特征向量
+  - 矩阵的对角化及二次型
+- 微积分
+  - 求导、常见函数的导数及求导公式
+  - 函数的凸凹性与函数的极值
+  - 中值定理、洛必达法则以及泰勒公式的应用
+  - 定积分与不定积分
+  - 多元函数复合法求导与链式法则
+  - 偏导数、方向导数、梯度及其应用
+  - 多元函数泰勒公式、Jacobian & Hessian矩阵与多元函数的极值
+  - 矩阵求导
+- 概率与信息论基础
+  - 概率论的基本概念
+  - 边缘概率、条件概率以及条件概率的链式法则
+  - 常用概率分布
+  - 全概率公式与贝叶斯公式
+  - 参数估计
+  - 信息论基础
+  - 结构化概率模型
+- 最优化基础
+  - 无约束最优化与梯度下降
+  - 约束最优化
+ 
 <!--
 
 **Here are some ideas to get you started:**
